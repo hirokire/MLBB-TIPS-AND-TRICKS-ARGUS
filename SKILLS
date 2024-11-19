@@ -1,11 +1,51 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
+
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
+    <title>Character Abilities</title>
+
 </head>
-<body>
-    
+
+<body style="background-color: black; color: white; font-family: Arial, sans-serif;">
+
+
+
+    <!-- Navigation Buttons -->
+
+    <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%);">
+
+        <a href="index.html" style="display: block; color: white; text-decoration: none; font-size: 20px; padding: 10px;">1 - Home</a>
+
+        <a href="page2.html" style="display: block; color: white; text-decoration: none; font-size: 20px; padding: 10px;">2 - Character Backgrounds</a>
+
+        <a href="page3.html" style="display: block; color: white; text-decoration: none; font-size: 20px; padding: 10px;">3 - Character Abilities</a>
+
+        <a href="page4.html" style="display: block; color: white; text-decoration: none; font-size: 20px; padding: 10px;">4 - Character Roles</a>
+
+        <a href="page5.html" style="display: block; color: white; text-decoration: none; font-size: 20px; padding: 10px;">5 - Character Use</a>
+
+    </div>
+
+
+
+    <!-- Content Section -->
+
+    <div style="text-align: center; margin-top: 50px;">
+
+        <h1 style="font-family: Onyx; font-size: 50px;">Character Abilities</h1>
+
+        <h2 style="font-family: Castellar; font-size: 24px; margin-top: 20px;">Capabilities or the Power of the characters.</h2>
+
+    </div>
+
+
+
 </body>
+
 </html>
